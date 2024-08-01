@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "me test vin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^3.0.0",
+    "qs": "^6.12.3"
+  }
+}
